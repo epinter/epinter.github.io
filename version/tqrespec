@@ -1,10 +1,10 @@
 module=tqrespec
-current_version=0.2.1
-filename1=tqrespec.zip
-filename2=tqrespec_withjre.zip
-filename3=tqrespec_jar.zip
+current_version=0.6.0
+filename1=TQRespec-0.6.0.zip
+filename2=
+filename3=
 urlpage=https://github.com/epinter/tqrespec/releases
-url1=https://github.com/epinter/tqrespec/releases/download/v0.2.1/tqrespec_withjre.zip
-url2=https://github.com/epinter/tqrespec/releases/download/v0.2.1/tqrespec.zip
-url3=https://github.com/epinter/tqrespec/releases/download/v0.2.1/tqrespec_jar.zip
+url1=https://github.com/epinter/tqrespec/releases/download/v0.6.0/TQRespec-0.6.0.zip
+url2=
+url3=
 new_update_uri=
