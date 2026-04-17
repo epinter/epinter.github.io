@@ -1,10 +1,10 @@
 module=tqrespec
-current_version=1.2.0
-filename1=TQRespec-1.2.0.zip
-filename2=TQRespec-1.2.0-linux.zip
+current_version=1.2.1
+filename1=TQRespec-1.2.1.zip
+filename2=TQRespec-1.2.1-linux.zip
 filename3=
 urlpage=https://github.com/epinter/tqrespec/releases
-url1=https://github.com/epinter/tqrespec/releases/download/v1.2.0/TQRespec-1.2.0.zip
-url2=https://github.com/epinter/tqrespec/releases/download/v1.2.0/TQRespec-1.2.0-linux.zip
+url1=https://github.com/epinter/tqrespec/releases/download/v1.2.1/TQRespec-1.2.1.zip
+url2=https://github.com/epinter/tqrespec/releases/download/v1.2.1/TQRespec-1.2.1-linux.zip
 url3=
 new_update_uri=
